@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.0">
+<file name="H:\MyCourses\COMP1510\assignment 1\chen,clyde-assign-1\chen,clyde-assign-1\src\q1\Change.java">
+<error line="29" column="5" severity="warning" message="Executable statement count is 36 (max allowed is 30)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ExecutableStatementCountCheck"/>
+</file>
+<file name="H:\MyCourses\COMP1510\assignment 1\chen,clyde-assign-1\chen,clyde-assign-1\src\q2\SecondsConvert.java">
+<error line="57" severity="warning" message="method call child at indentation level 8 not at correct indentation, 12" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="71" severity="warning" message="method call child at indentation level 8 not at correct indentation, 12" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="H:\MyCourses\COMP1510\assignment 1\chen,clyde-assign-1\chen,clyde-assign-1\src\q3\Arithemtic.java">
+<error line="54" severity="warning" message="method call child at indentation level 8 not at correct indentation, 12" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="55" severity="warning" message="method call child at indentation level 8 not at correct indentation, 12" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="56" severity="warning" message="method call child at indentation level 8 not at correct indentation, 12" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="H:\MyCourses\COMP1510\assignment 1\chen,clyde-assign-1\chen,clyde-assign-1\src\q4\Cube.java">
+</file>
+<file name="H:\MyCourses\COMP1510\assignment 1\chen,clyde-assign-1\chen,clyde-assign-1\src\q5\PieChart.java">
+<error line="78" column="9" severity="warning" message="Executable statement count is 32 (max allowed is 30)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ExecutableStatementCountCheck"/>
+</file>
+</checkstyle>
